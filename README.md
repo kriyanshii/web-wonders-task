@@ -1,5 +1,5 @@
 # Phoenix Club WEB DEV BOOTCAMP
-<img src="https://user-images.githubusercontent.com/59494745/160250954-43638ab0-b5ec-494c-9592-390ef24a3091.jpeg" height= "700" width="700"> 
+<img src="https://user-images.githubusercontent.com/59494745/160250954-43638ab0-b5ec-494c-9592-390ef24a3091.jpeg" height= "600" width="600"> 
 
 ### Hey folks, <br>
 ### The design of the project is:
